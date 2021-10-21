@@ -22,7 +22,7 @@ Android Hypercasual game<br>
 
 # Hero Puzzle<br>
 Android platform game <br> <a href="https://github.com/fatihgules/Hero-Puzzle-Mobile/raw/main/Apk/Hero_Puzzle.apk">Download Apk</a><br>
-<img width="500" height="300" src="https://raw.githubusercontent.com/fatihgules/Hero-Puzzle-Mobile/main/G_PLAY_COVER.png"/>
+<img src="https://raw.githubusercontent.com/fatihgules/Hero-Puzzle-Mobile/main/G_PLAY_COVER.png"/>
 # Math-Game
 Yapay zekaya karşı matematik yarışması<br>
 <a href="https://github.com/fatihgules/Math-Game/raw/main/Apk/matemaik_oyunu.apk">Download Apk</a><br>
